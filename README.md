@@ -10,6 +10,5 @@ Solving two MDPs using Value Iteration, Policy Iteration and Q-Learning
 
 ## Algorithms Used
 1) Value Iteration (VI)
-2) IPolicy Iteration (PI)
+2) Policy Iteration (PI)
 3) Q-Learning
-
